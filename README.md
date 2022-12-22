@@ -5,7 +5,9 @@ For the final project for the SpringBootCamp I have implemented an "Entertainmen
 ## Introduction
 The goal of this project is to build a platform where users can rate any entertainment(Anime , Game , Movie) they like. but to be honest the system is a litle biased XD.
 The System will allow the users to add/get/update/delete an anime or a game or a movie, also the system can provide the user with the avarage rating for any anime or game or movie, get all animes with a certain number of episodes or less, get all games with a certain game play type, and get all movies with a certain duration or more.
-The System has some other fetures like get all animes or games or movies in a certain genre, get an anime or a game or a movie with a certain title, or some other basic features.\n
+The System has some other fetures like get all animes or games or movies in a certain genre, get an anime or a game or a movie with a certain title, or some other basic features.
+
+### Tool
 The System was built using Java SpringBoot.
 
 
