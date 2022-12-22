@@ -17,7 +17,7 @@ The System was built using Java SpringBoot.
 ## Class Diagram
 Next is the class digram for the project:
 ![Entertainment rating System Class diagram](https://user-images.githubusercontent.com/117676379/209102257-b5899443-0f39-4dca-97b0-1b73e6358205.png)
-*note*: some classes were not added to the class diagram for sake of simplicity.
+*note: some classes were not added to the class diagram for sake of simplicity.*
 
 
 
